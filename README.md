@@ -14,5 +14,4 @@ Run the following test case which opens up the debugger in terminal
 npx hardhat run test/Lock.mjs
 ```
 
-Use ↑/↓ keys to move to the next/previous opcode
-And q to quit
+Use ↑/↓ keys to move to the next/previous opcode & `q` to quit
